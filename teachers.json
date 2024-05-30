@@ -1,0 +1,16 @@
+[
+  {
+    "fullName": "Shailendra Singh",
+    "age": 18,
+    "dateOfBirth": "2000-02-20",
+    "numberOfClasses": 5,
+    "id": "1717031441218"
+  },
+  {
+    "fullName": "Shubham Pandey",
+    "age": 28,
+    "dateOfBirth": "1996-02-20",
+    "numberOfClasses": 3,
+    "id": "1717034790339"
+  }
+]
